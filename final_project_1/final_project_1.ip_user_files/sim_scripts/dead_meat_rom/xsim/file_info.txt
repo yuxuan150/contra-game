@@ -1,0 +1,2 @@
+dead_meat_rom.v,verilog,xil_defaultlib,../../../../final_project_1.gen/sources_1/ip/dead_meat_rom/sim/dead_meat_rom.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

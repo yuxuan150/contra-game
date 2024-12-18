@@ -1,0 +1,2 @@
+tree2_rom.v,verilog,xil_defaultlib,../../../../final_project_1.gen/sources_1/ip/tree2_rom/sim/tree2_rom.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

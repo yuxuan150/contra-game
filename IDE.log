@@ -1,0 +1,9 @@
+11:56:12 DEBUG : Logs will be stored at 'U:/Downloads/ece385/final_project_111/IDE.log'.
+11:56:15 INFO  : Registering command handlers for Vitis TCF services
+11:56:15 INFO  : Launching XSCT server: xsct.bat -n  -interactive U:\Downloads\ece385\final_project_111\temp_xsdb_launch_script.tcl
+11:56:16 INFO  : Platform repository initialization has completed.
+11:56:18 INFO  : XSCT server has started successfully.
+11:56:18 INFO  : Successfully done setting XSCT server connection channel  
+11:56:18 INFO  : plnx-install-location is set to ''
+11:56:18 INFO  : Successfully done setting workspace for the tool. 
+11:56:18 INFO  : Successfully done query RDI_DATADIR 

@@ -1,0 +1,12 @@
+timestamp=[2024-12-02 15:34:02], mode=WORKBENCH_START, duration=0:00:05.658, duration_ms=5658, data={}
+timestamp=[2024-12-02 15:34:02], mode=WORKBENCH_UI_INIT, duration=0:00:00.518, duration_ms=518, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2024-12-02 15:34:04], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:01.105, duration_ms=1105, data={}
+timestamp=[2024-12-02 15:35:32], mode=WORKBENCH_START, duration=0:00:03.952, duration_ms=3952, data={}
+timestamp=[2024-12-02 15:35:33], mode=WORKBENCH_UI_INIT, duration=0:00:00.469, duration_ms=469, data={editors_count=0, platform_editors_count=0, projects_count=1, platform_projects_count=0, active_platform_editor=false, projects=RemoteSystemsTempFiles}
+timestamp=[2024-12-02 15:35:34], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.828, duration_ms=828, data={}
+timestamp=[2024-12-02 15:35:50], mode=WORKBENCH_START, duration=0:00:03.922, duration_ms=3922, data={}
+timestamp=[2024-12-02 15:35:50], mode=WORKBENCH_UI_INIT, duration=0:00:00.422, duration_ms=422, data={editors_count=0, platform_editors_count=0, projects_count=1, platform_projects_count=0, active_platform_editor=false, projects=RemoteSystemsTempFiles}
+timestamp=[2024-12-02 15:35:52], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.860, duration_ms=860, data={}
+timestamp=[2024-12-02 15:36:43], mode=WORKBENCH_START, duration=0:00:03.960, duration_ms=3960, data={}
+timestamp=[2024-12-02 15:36:43], mode=WORKBENCH_UI_INIT, duration=0:00:00.468, duration_ms=468, data={editors_count=0, platform_editors_count=0, projects_count=1, platform_projects_count=0, active_platform_editor=false, projects=RemoteSystemsTempFiles}
+timestamp=[2024-12-02 15:36:44], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.859, duration_ms=859, data={}

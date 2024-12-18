@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../final_project_1.gen/sources_1/ip/contra_people_2_1/sim/contra_people_2_1.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
